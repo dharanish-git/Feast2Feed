@@ -72,7 +72,7 @@ By making food redistribution **real-time and trackable**, Feast2Feed ensures th
 ## 📸 Screenshots
 
 ### Screenshot 1
-![Screenshot 1](images/screenshot2.png)
+![Screenshot 1](/images/screenshot2.png)
 
 ### Screenshot 2
 ![Screenshot 2](images/screenshot3.png)
@@ -81,7 +81,7 @@ By making food redistribution **real-time and trackable**, Feast2Feed ensures th
 ![Screenshot 3](images/screenshot4.png)
 
 ### Screenshot 4
-![Screenshot 4](images/screenshot4b.png)  <!-- rename if needed -->
+![Screenshot 4](images/screenshot4.png)  <!-- rename if needed -->
 
 ### Screenshot 5
 ![Screenshot 5](images/screenshot5.png)
