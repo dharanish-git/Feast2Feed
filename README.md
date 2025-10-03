@@ -120,3 +120,7 @@ Open-source community for tools and frameworks
 Everyone working to reduce food wastage and feed the underprivileged
 
 “Feast2Feed is more than just a web application—it is a meaningful solution that combines technology with social responsibility, efficiently connects donors with NGOs, and ensures that food reaches underprivileged communities.”
+
+
+Made With
+-By Dharanishwaran 😎
