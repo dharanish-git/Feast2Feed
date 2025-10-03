@@ -69,9 +69,34 @@ By making food redistribution **real-time and trackable**, Feast2Feed ensures th
 
 ---
 
-## 📸 Screenshots (Optional)  
-*(Add screenshots of your login, donor dashboard, NGO dashboard, donation tracking page here)*  
+## 📸 Screenshots
 
+### Screenshot 1
+![Screenshot 1](images/screenshot2.png)
+
+### Screenshot 2
+![Screenshot 2](images/screenshot3.png)
+
+### Screenshot 3
+![Screenshot 3](images/screenshot4.png)
+
+### Screenshot 4
+![Screenshot 4](images/screenshot4b.png)  <!-- rename if needed -->
+
+### Screenshot 5
+![Screenshot 5](images/screenshot5.png)
+
+### Screenshot 6
+![Screenshot 6](images/screenshot6.png)
+
+### Screenshot 7
+![Screenshot 7](images/screenshot7.png)
+
+### Screenshot 8
+![Screenshot 8](images/screenshot8.png)
+
+### Screenshot 9
+![Screenshot 9](images/screenshot9.png)
 ---
 
 ## 🤝 Contribution  
